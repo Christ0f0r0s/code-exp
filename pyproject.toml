@@ -5,11 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "edge-tts>=7.2.8",
     "google-genai>=1.68.0",
     "markdown>=3.10.2",
     "openai>=2.30.0",
-    "pymupdf>=1.27.2.2",
     "python-dotenv>=1.2.2",
     "streamlit>=1.55.0",
 ]
