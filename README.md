@@ -1,4 +1,4 @@
-# 🧠 Code Explainer (Tłumacz kodu)
+# 🧠 Tłumacz kodu
 
 ## 📌 Opis projektu
 
@@ -125,9 +125,9 @@ pip install uv
 
 Po pobraniu repozytorium:
 
-cd nazwa_projektu
-uv sync
-uv run streamlit run app.py
+* cd nazwa_projektu
+* uv sync
+* uv run streamlit run app.py (lub streamlit run app.py)
 
 👉 `uv sync` automatycznie:
 
